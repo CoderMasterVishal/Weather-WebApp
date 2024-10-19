@@ -124,19 +124,6 @@ h1 {
 
 
 
-.grant-location-container p:first-of-type{
-    font-size: 3rem;
-    font-weight: 600; 
-}
-
-.grant-location-container p:last-of-type{
-    text-align: center;
-    font-size:1.65rem;
-    font-weight: 500;
-    margin-top: 5.75rem;
-    margin-bottom: 0.75rem;
-    letter-spacing: 0.75px;
-}
 
 .loading-container{
     display: none;
