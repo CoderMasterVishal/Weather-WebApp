@@ -256,3 +256,31 @@ h1 {
     border-radius: 100%;
     margin-bottom:1px;
 }
+
+.credits a {
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 20px;
+    color: #aaa;
+}
+.credits span {
+    color: #db0933;
+}
+  
+@media (max-width: 1199px) {
+  
+    .credits a {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 19px;
+      color: #aaa;
+    }
+    .credits span {
+      color: red;
+    }
+}
+  
